@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 frontend.eval (https://codepen.io/frontendeval/pen/qBPXMKR)
-Fork of an original work Image Carousel - React template (https://codepen.io/frontendeval/pen/qBPXMKR)
+Copyright (c) 2023 prajuwal singh (https://codepen.io/prajuwal/pen/WNYbqEE)
+Fork of an original work Image Carousel - React template (https://codepen.io/prajuwal/pen/WNYbqEE)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
